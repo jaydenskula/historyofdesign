@@ -1,3 +1,3 @@
 # History of Design
 
-- Main Page
+- [Main Page](https://jaydenskula.github.io/historyofdesign/)
